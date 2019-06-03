@@ -1,0 +1,12 @@
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\bin\Debug\netcoreapp3.0\Recursions.exe
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\bin\Debug\netcoreapp3.0\Recursions.deps.json
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\bin\Debug\netcoreapp3.0\Recursions.runtimeconfig.json
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\bin\Debug\netcoreapp3.0\Recursions.runtimeconfig.dev.json
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\bin\Debug\netcoreapp3.0\Recursions.dll
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\bin\Debug\netcoreapp3.0\Recursions.pdb
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\obj\Debug\netcoreapp3.0\Recursions.csproj.CoreCompileInputs.cache
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\obj\Debug\netcoreapp3.0\Recursions.AssemblyInfoInputs.cache
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\obj\Debug\netcoreapp3.0\Recursions.AssemblyInfo.cs
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\obj\Debug\netcoreapp3.0\Recursions.dll
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\obj\Debug\netcoreapp3.0\Recursions.pdb
+R:\Programas\C#\Résmony_Silva_Muniz\Recursions\obj\Debug\netcoreapp3.0\Recursions.csprojAssemblyReference.cache
